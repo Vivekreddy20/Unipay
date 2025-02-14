@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 678 440">
+  <!-- Background -->
+  <rect width="678" height="440" fill="#fff"/>
+  
+  <!-- Security shield background shape - enlarged -->
+  <path d="M189 40 L489 40 L489 320 L339 420 L189 320 Z" fill="#e6f3ff" stroke="#2563eb" stroke-width="2"/>
+  
+  <!-- Form container - enlarged -->
+  <rect x="229" y="90" width="220" height="260" rx="8" fill="white" stroke="#93c5fd" stroke-width="2"/>
+  
+  <!-- Form fields - enlarged -->
+  <rect x="249" y="120" width="180" height="35" rx="4" fill="#eff6ff"/>
+  <rect x="249" y="190" width="180" height="35" rx="4" fill="#eff6ff"/>
+  
+  <!-- Lock icon - enlarged -->
+  <circle cx="339" cy="280" r="22" fill="#2563eb"/>
+  <rect x="332" y="273" width="14" height="22" rx="2" fill="white"/>
+  <rect x="328" y="273" width="22" height="12" rx="2" fill="white"/>
+  
+  <!-- Decorative circles - repositioned -->
+  <circle cx="189" cy="40" r="6" fill="#2563eb"/>
+  <circle cx="489" cy="40" r="6" fill="#2563eb"/>
+  <circle cx="189" cy="320" r="6" fill="#2563eb"/>
+  <circle cx="489" cy="320" r="6" fill="#2563eb"/>
+  
+  <!-- Text labels - enlarged -->
+  <text x="249" y="110" font-family="Arial" font-size="16" fill="#1e40af">Roll Number</text>
+  <text x="249" y="180" font-family="Arial" font-size="16" fill="#1e40af">Date of Birth</text>
+  
+  <!-- Small decorative elements - repositioned -->
+  <circle cx="229" y="380" r="3" fill="#93c5fd"/>
+  <circle cx="449" y="380" r="3" fill="#93c5fd"/>
+  <circle cx="229" y="60" r="3" fill="#93c5fd"/>
+  <circle cx="449" y="60" r="3" fill="#93c5fd"/>
+  
+  <!-- Security text - enlarged -->
+  <text x="339" y="330" font-family="Arial" font-size="18" fill="#1e40af" text-anchor="middle">Secure Authentication</text>
+  
+  <!-- Additional decorative elements - enlarged -->
+  <rect x="249" y="240" width="90" height="6" rx="2" fill="#bfdbfe"/>
+  <rect x="249" y="255" width="60" height="6" rx="2" fill="#bfdbfe"/>
+</svg>

@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 678 440">
+  <!-- Background -->
+  <rect width="678" height="440" fill="#fff"/>
+  
+  <!-- Large verification checkmark circle -->
+  <circle cx="339" cy="100" r="40" fill="#e6f3ff" stroke="#2563eb" stroke-width="2"/>
+  <path d="M320 100 L335 115 L360 85" stroke="#2563eb" stroke-width="4" fill="none"/>
+  
+  <!-- Details container -->
+  <rect x="139" y="160" width="400" height="220" rx="8" fill="white" stroke="#2563eb" stroke-width="2"/>
+  
+  <!-- Detail rows with verification marks -->
+  <!-- Name -->
+  <rect x="159" y="180" width="360" height="40" rx="4" fill="#f8fafc"/>
+  <text x="179" y="205" font-family="Arial" font-size="16" fill="#64748b">Name</text>
+  <circle cx="479" cy="200" r="10" fill="#e6f3ff" stroke="#2563eb" stroke-width="1.5"/>
+  <path d="M474 200 L477 203 L484 196" stroke="#2563eb" stroke-width="1.5" fill="none"/>
+  
+  <!-- Roll Number -->
+  <rect x="159" y="230" width="360" height="40" rx="4" fill="#f8fafc"/>
+  <text x="179" y="255" font-family="Arial" font-size="16" fill="#64748b">Roll Number</text>
+  <circle cx="479" cy="250" r="10" fill="#e6f3ff" stroke="#2563eb" stroke-width="1.5"/>
+  <path d="M474 250 L477 253 L484 246" stroke="#2563eb" stroke-width="1.5" fill="none"/>
+  
+  <!-- Selected Fee -->
+  <rect x="159" y="280" width="360" height="40" rx="4" fill="#f8fafc"/>
+  <text x="179" y="305" font-family="Arial" font-size="16" fill="#64748b">Selected Fee Type</text>
+  <circle cx="479" cy="300" r="10" fill="#e6f3ff" stroke="#2563eb" stroke-width="1.5"/>
+  <path d="M474 300 L477 303 L484 296" stroke="#2563eb" stroke-width="1.5" fill="none"/>
+  
+  <!-- Amount -->
+  <rect x="159" y="330" width="360" height="40" rx="4" fill="#f8fafc"/>
+  <text x="179" y="355" font-family="Arial" font-size="16" fill="#64748b">Amount</text>
+  <circle cx="479" cy="350" r="10" fill="#e6f3ff" stroke="#2563eb" stroke-width="1.5"/>
+  <path d="M474 350 L477 353 L484 346" stroke="#2563eb" stroke-width="1.5" fill="none"/>
+  
+  <!-- Magnifying glass decoration -->
+  <circle cx="139" cy="160" r="20" fill="#e6f3ff" stroke="#2563eb" stroke-width="2"/>
+  <circle cx="139" cy="160" r="8" fill="none" stroke="#2563eb" stroke-width="2"/>
+  <line x1="144" y1="165" x2="152" y2="173" stroke="#2563eb" stroke-width="2"/>
+  
+  <!-- Title -->
+  <text x="339" y="40" font-family="Arial" font-size="24" fill="#1e40af" text-anchor="middle" font-weight="bold">Verify Your Details</text>
+  
+  <!-- Subtitle -->
+  <text x="339" y="400" font-family="Arial" font-size="16" fill="#64748b" text-anchor="middle">Please review all information before proceeding</text>
+  
+  <!-- Decorative elements -->
+  <circle cx="139" cy="380" r="3" fill="#93c5fd"/>
+  <circle cx="539" cy="380" r="3" fill="#93c5fd"/>
+  <circle cx="139" cy="60" r="3" fill="#93c5fd"/>
+  <circle cx="539" cy="60" r="3" fill="#93c5fd"/>
+</svg>
