@@ -14,7 +14,7 @@ const ContactPage = () => {
 
   const handleMailTo = () => {
     const { name, email, message } = formData;
-    const mailto = `mailto:samrathreddy04@gmail.com?subject=Support contact from ${name} - Unipay&body=${message}`;
+    const mailto = `mailto:kanthala.v.r27@gmail.com?subject=Support contact from ${name} - Unipay&body=${message}`;
     window.location.href = mailto;
   };
 
